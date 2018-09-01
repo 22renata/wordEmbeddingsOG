@@ -1,2 +1,5 @@
 # wordEmbeddingsOG
-Portuguese Word Embeddings for the specific domain of Oil and Gas
+
+## Portuguese Word Embeddings for the specific domain of Oil and Gas
+
+Vetorização de palavras (word embeddings) compõem uma das unidades fundamentais dos algoritmos de processamento de linguagem natural e são utilizados para modelar matematicamente a representação de palavras considerando suas relações de similaridade semântica e sintática no contexto em que ocorrem. Este trabalho descreve o processo de geração e disponibilização do primeiro conjunto público de modelos de word embeddings em português para o domínio específico de óleo e gás. Para a sua geração, um conjunto de dados textual (corpus) foi composto a partir de diversas fontes de dados publicadas por instituições de referência nesta área de conhecimento. Os modelos são qualitativamente analisados no aspecto de sua capacidade de representação de termos técnicos na área de O&G. São descritos os passos utilizados no pré-processamento, no treinamento dos modelos e os resultados obtidos na análise qualitativa. Por fim, os scripts, o corpus e os algoritmos utilizados no estudo, assim como os modelos gerados, são disponibilizados para uso público.
